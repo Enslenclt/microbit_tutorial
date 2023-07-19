@@ -1,5 +1,5 @@
 {
-    "name": "Microbit_tutorial",
+    "name": "MyFirstAnimation_tutorial",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "tutorial_1.md"
+        "tutorial_And.md",
+        "tutorial_Animation.md"
     ],
     "testFiles": [
         "test.ts"
@@ -22,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
