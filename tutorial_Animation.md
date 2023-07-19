@@ -2,8 +2,6 @@
 
 
 
-
-
 ## Section 1
 First Begin by dragging  a ``||basic.show leds||`` block into the ``||basic.forever||`` loop
 
