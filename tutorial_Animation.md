@@ -3,7 +3,7 @@
 
 
 ## Section 1
-First Begin by dragging  a ``||basic.show leds||`` block into the ``||basic.forever||`` loop
+First begin by dragging  a ``||basic.show leds||`` block into the ``||basic.forever||`` loop
 
 ```blocks
 basic.forever(function () {
@@ -20,7 +20,7 @@ basic.forever(function () {
 
 ## Section 2
 
-Next, draw a stick figure in the the ``||basic.show leds||`` block
+Next, draw a stick figure in the ``||basic.show leds||`` block
 ```blocks
 basic.forever(function () {
     basic.showLeds(`
@@ -35,7 +35,7 @@ basic.forever(function () {
 
 
 ## Section 3
-Then, Drag a new ``||basic.show leds||`` block into the ``||basic.forever||`` loop and re-draw your stick figure and make a slight change so that it animates.
+Then, drag a new ``||basic.show leds||`` block into the ``||basic.forever||`` loop and re-draw your stick figure and make a slight change so that it animates.
 
 ```blocks
 basic.forever(function () {
